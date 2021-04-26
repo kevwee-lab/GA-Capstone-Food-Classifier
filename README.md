@@ -42,7 +42,7 @@ We also analysed the misclassified images. Our best model was not able to predic
 
 Finally, we built a food classification webapp with our best model using Streamlit. It will not be deployed at the moment, but will be hosted locally and shown during the presentation.
 
-![webapp](https://drive.google.com/uc?export=view&id=1zmndp15ID9-5ljuqXD1casRNV5IIks_Q)
+![webapp](webapp.png)
 <hr/>
 
 
@@ -60,7 +60,7 @@ Finally, we built a food classification webapp with our best model using Streaml
 Our best model is the tuned EfficientNetB0, achieving a validation accuracy of 77.6%. Looking at the confusion matrix, we see that it can predict most classes reasonably well, with the exception of carrot cake. We also see that tiramisu is most often misclassified as chocolate cake and strawberry shortcake is most often misclassified as cheese cake. This seems to be quite a reasonable misclassification.
 <br> 
 
-![confusion_matrix](https://drive.google.com/uc?export=view&id=1CMyf4wSlp5izKarb3UVe3D8Zew4e1gbq)
+![confusion_matrix](confusion_matrix.png)
 
 
 <br>
