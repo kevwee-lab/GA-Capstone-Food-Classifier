@@ -60,7 +60,7 @@ Finally, we built a food classification webapp with our best model using Streaml
 Our best model is the tuned EfficientNetB0, achieving a validation accuracy of 77.6%. Looking at the confusion matrix, we see that it can predict most classes reasonably well, with the exception of carrot cake. We also see that tiramisu is most often misclassified as chocolate cake and strawberry shortcake is most often misclassified as cheese cake. This seems to be quite a reasonable misclassification.
 <br> 
 
-![confusion_matrix](confusion_matrix.png)
+![confusion_matrix](conf_matrix.png)
 
 
 <br>
