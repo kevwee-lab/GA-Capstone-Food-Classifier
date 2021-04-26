@@ -1,4 +1,4 @@
-# **GA Capstone: A 10 class dessert classifier**
+# **Data Science Immersive Capstone: A 10 class dessert classifier**
 
 
 ## **Problem Statement**
