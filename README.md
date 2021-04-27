@@ -28,7 +28,7 @@ Subsequently, we then created a 10 class dessert dataset and fit our dataset on 
 2) Transfer learning with VGG16 <br>
 3) Transfer learning with EfficientNetB0 <br>
 
-We also tuned and refitted the models.
+We also tuned and refitted the models. <br>
 For 1) Custom made convolutional neural network: <br>
 -Added BatchNormalization layers to regularize the model and control overfitting <br>
 -Used RandomSearch from Keras Tuners to find best parameters for dense layers and learning rate <br>
@@ -75,7 +75,7 @@ To address our problem statement, we have built a 5 class Japanese Food classifi
 If we were to deploy such a solution to production and eventually for usage in unmanned retail and fnb stores, more work will need to be done, in terms of the following: <br>
 1) Training the model with more data of the food at different camera angles and heights <br>
 2) Training the model with more classes if we have more computational power and time<br>
-3) Tuning the model for better accuracy by varying the layers to freeze during training, and use other techniques such as image augmentation or CutMix. <br>
+3) Tuning the model for better accuracy by varying the layers to freeze during training, and use other techniques ensemble models, or image augmentation techniques such as CutMix. <br>
 4) Creating an object detection model so that we can count the quantity of items detected.
 
 <hr/>
