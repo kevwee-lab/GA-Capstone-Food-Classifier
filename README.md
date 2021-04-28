@@ -40,7 +40,7 @@ For 2) and 3): <br>
 
 We also analysed the misclassified images. Our best model was not able to predict 559 out of 2500 validation dataset images correctly. The most misclassified classes were carrot cake, followed by cheese cake and tiramisu. 
 
-Finally, we built a food classification webapp with our best model using Streamlit. It will not be deployed at the moment, but will be hosted locally and shown during the presentation.
+Finally, we built a food classification webapp with our best model using Streamlit. It can be found on this [link](https://share.streamlit.io/kevwee-lab/dessertclassifier_webapp/main/foodclass_app.py).
 
 ![webapp](webapp.png)
 <hr/>
